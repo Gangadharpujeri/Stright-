@@ -1,0 +1,6 @@
+{
+  "name": "StreetLight Alert",
+  "description": "Civic streetlight fault reporting system with real-time GPS location tagging, photo evidence capture, civic issue categorization, and repair status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
